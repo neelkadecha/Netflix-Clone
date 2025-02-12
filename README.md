@@ -1,0 +1,1 @@
+A simple Netflix clone built using only HTML and CSS. This project replicates the Netflix homepage with a responsive design, modern UI elements, and smooth styling. No JavaScript is used—just pure HTML and CSS for layout and design.
